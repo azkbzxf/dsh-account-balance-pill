@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Account Balance Pill",
+    "description": "Shows the DeepSeek account's remaining balance in the composer bottom bar and keeps it up to date."
+  }
+}
